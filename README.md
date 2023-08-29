@@ -22,7 +22,7 @@ data mining studies the algorithms and computational paradigms that allow comput
 
 ###  august 25 2023 [data](./01-data.md)
 
-**reading**  chapter 2.1 types data
+- [ ] **reading**  chapter 2.1 types data
 
 **reading**  chapter 2.2 data quality
 
